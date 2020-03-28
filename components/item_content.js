@@ -11,7 +11,7 @@ import Link from 'next/link';
 const Item = styled.div`
     max-height:200px;
     overflow:auto;
-    margin-bottom:1em;
+    margin-bottom:1.3em;
 `;
 
 const ItemContent=()=>(
