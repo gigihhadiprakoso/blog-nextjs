@@ -68,8 +68,8 @@ export const Column12 = styled.div`
 
 {/* Content */}
 export const ImageContent = styled.img`
-    width:200px;
-    height:100%;
+    width:80%;
+    // height:100%;
 `;
 export const Category = styled.span`
     color:pink

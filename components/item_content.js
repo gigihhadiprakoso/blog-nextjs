@@ -9,15 +9,16 @@ import styled from 'styled-components';
 import Link from 'next/link';
 
 const Item = styled.div`
-    max-height:200px
-    overflow:auto
+    max-height:200px;
+    overflow:auto;
+    margin-bottom:1em;
 `;
 
 const ItemContent=()=>(
     <Item>
         <Row>
             <Column3>
-                <ImageContent src="https://www.russellspest.com/wp-content/uploads/2020/02/box-elder-bugs.jpg" />
+                <ImageContent src="https://image.freepik.com/free-photo/happy-woman-coat-with-many-shopping-nets_23-2148316410.jpg" />
             </Column3>
             <Column9>
                 <Category>Life Style</Category>
